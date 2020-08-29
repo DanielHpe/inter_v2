@@ -336,7 +336,7 @@ def F_RunAccounts(index, list_contas):
 
         browser.implicitly_wait(2)
 
-        if index == len(list_contas):
+        if index >= len(list_contas):
             F_WriteLog('Fim do download das contas\n')
             return 
 
@@ -356,7 +356,15 @@ def F_WriteLog(mensagem):
     F_WriteFile(log_filename, '>>>> ' + str(datetime.now().strftime("%d/%m/%Y %H:%M:%S")) + ' - '  + mensagem + '\n', F_GetFileFolderName(), 'a')
     
 if __name__ == "__main__":
-
+    
+    try:
+        index_contas = int(sys.argv[1])
+    except:
+        exit(1)
+    
+    if index_contas < 0:
+        exit(1)
+        
     chromedriver = F_GetFileFolderName() + '\\config\\chromedriver\\Chromedriver83.exe'
     browser = webdriver.Chrome(chromedriver, options=chrome_options)
 
@@ -368,6 +376,7 @@ if __name__ == "__main__":
     mailbox = F_InitEmailConfig()
 
     if mailbox is None:
+        browser.close()
         F_WriteLog('Erro ao carregar configurações de E-mail')
         F_MoveAndRenameFile(log_filename, log_filename, F_GetFileFolderName(), F_GetFileFolderName() + '\\backup_log')
         exit(1)
@@ -379,6 +388,7 @@ if __name__ == "__main__":
     is_logged = F_Login(mailbox, sent_from, access)
 
     if is_logged is False:
+        browser.close()
         F_WriteLog('Erro ao Efetuar login. Tente novamente\n')
         F_MoveAndRenameFile(log_filename, log_filename, F_GetFileFolderName(), F_GetFileFolderName() + '\\backup_log')
         exit(1)
@@ -388,8 +398,14 @@ if __name__ == "__main__":
 
     F_DeleteAllExtratosFromFolder(current_filename, download_folder)
 
-    index_contas = int(sys.argv[1])
-    F_RunAccounts(index_contas, F_GetListAccounts(False))
+    list_contas = F_GetListAccounts(False)
+    
+    if index_contas >= len(list_contas):
+        browser.close()
+        F_MoveAndRenameFile(log_filename, log_filename, F_GetFileFolderName(), F_GetFileFolderName() + '\\backup_log')
+        exit(1)
+        
+    F_RunAccounts(index_contas, list_contas)
 
     if num_erros == max_err_count:
         F_WriteLog('Erro ao executar o Download das Contas. Tente novamente\n')
@@ -399,5 +415,5 @@ if __name__ == "__main__":
     F_WriteLog('Processamento das contas finalizado')
 
     F_MoveAndRenameFile(log_filename, log_filename, F_GetFileFolderName(), F_GetFileFolderName() + '\\backup_log')
-
+    
     browser.close()

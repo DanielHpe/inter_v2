@@ -1,3 +1,4 @@
 /config/Config.xml
 /config/chromedriver
+/config/__pycache__
 /backup_Log
