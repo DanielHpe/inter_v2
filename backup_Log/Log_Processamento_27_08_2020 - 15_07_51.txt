@@ -1,6 +1,0 @@
->>>> 27/08/2020 15:07:51 - Início da execução do processamento das contas do Inter
-
->>>> 27/08/2020 15:07:52 - Configurações de e-mail realizadas com sucesso!
->>>> 27/08/2020 15:07:52 - Nenhum e-mail encontrado para deletar
->>>> 27/08/2020 15:07:52 - Iniciando a navegação no novo sistema do Inter
->>>> 27/08/2020 15:07:57 - Erro ao Efetuar login
