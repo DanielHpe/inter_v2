@@ -1,0 +1,311 @@
+>>>> 29/08/2020 18:09:31 - Início do processamento das contas do banco Inter
+
+>>>> 29/08/2020 18:09:31 - Fazendo Login no sistema
+
+>>>> 29/08/2020 18:09:38 - Configurações de e-mail realizadas com sucesso!
+>>>> 29/08/2020 18:09:38 - 1 e-mail(s) identificados para deletar
+>>>> 29/08/2020 18:09:38 - Deletando e-mail do dia 2020-08-29 18:45:07+00:00 enviado por no-reply@bancointer.com.br com assunto: Autorização de novo login
+>>>> 29/08/2020 18:09:38 - Emails antigos deletados com sucesso
+>>>> 29/08/2020 18:09:38 - Fazendo o acesso. Inserindo o usuário
+>>>> 29/08/2020 18:09:39 - Fazendo o acesso. Inserindo a senha
+>>>> 29/08/2020 18:09:41 - Token enviado para o e-mail de acesso. Iniciando a validação do Token
+>>>> 29/08/2020 18:09:41 - Esperando e-mail com o Token chegar
+>>>> 29/08/2020 18:09:53 - Email com o Token chegou. Recuperando informações do e-mail
+>>>> 29/08/2020 18:09:53 - Salvando HTML do e-mail
+>>>> 29/08/2020 18:09:53 - Token extraído com sucesso
+>>>> 29/08/2020 18:09:53 - Inserindo o Token
+>>>> 29/08/2020 18:09:53 - Login efetuado com sucesso
+
+>>>> 29/08/2020 18:09:53 - Iniciando download dos extratos
+
+>>>> 29/08/2020 18:10:03 - Download do extrato da conta: ASSOCIACAO INSTITUTO MRV - 6922899
+>>>> 29/08/2020 18:10:03 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:03 - Download do extrato da conta: BETIM I INCORPORACAO SPE LTDA - 7621086
+>>>> 29/08/2020 18:10:03 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:04 - Download do extrato da conta: BTS VIII EMPREENDIMENTOS IMOBILIARIOS LTDA - 15597440
+>>>> 29/08/2020 18:10:04 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:04 - Download do extrato da conta: CABRAL INVESTIMENTOS SPE LTDA. - 7009364
+>>>> 29/08/2020 18:10:04 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:04 - Download do extrato da conta: CASASMAIS MACAUBA INCORPORACOES LTDA - 18039561
+>>>> 29/08/2020 18:10:04 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:04 - Download do extrato da conta: CASASMAIS RECANTO DAS FLORES INCORPORACOES LTDA - 18043330
+>>>> 29/08/2020 18:10:04 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:05 - Download do extrato da conta: CASASMAIS RECANTO DAS FLORES INCORPORACOES LTDA - 14275902
+>>>> 29/08/2020 18:10:05 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:05 - Download do extrato da conta: CONTAGEM II INCORPORACAO SPE LTDA - 23050756
+>>>> 29/08/2020 18:10:05 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:05 - Download do extrato da conta: CONTAGEM I SPE LTDA - 23048816
+>>>> 29/08/2020 18:10:05 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:05 - Download do extrato da conta: FORTE IRACEMA INCORPORACOES SPE LTDA - 7462620
+>>>> 29/08/2020 18:10:05 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:06 - Download do extrato da conta: GOIANIA I INCORPORACOES IMOBILIARIAS SPE LTDA - 7462700
+>>>> 29/08/2020 18:10:06 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:06 - Download do extrato da conta: HORTOLANDIA INCORPORACAO SPE LTDA - 7462689
+>>>> 29/08/2020 18:10:06 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:06 - Download do extrato da conta: JUNDIAI I INCORPORACAO SPE LTDA - 7462670
+>>>> 29/08/2020 18:10:06 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:06 - Download do extrato da conta: LAGUNE MARAPONGA INCORPORACOES SPE LTDA - 7462646
+>>>> 29/08/2020 18:10:06 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:07 - Download do extrato da conta: LOG ARACAJU INCORPORACOES SPE LTDA - 9897941
+>>>> 29/08/2020 18:10:07 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:07 - Download do extrato da conta: LOG BTS EXTREMA EMPREENDIMENTOS IMOBILIARIOS SA - 21834083
+>>>> 29/08/2020 18:10:07 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:07 - Download do extrato da conta: LOG COMMERCIAL PROPERTIES E PARTICI - 7440685
+>>>> 29/08/2020 18:10:07 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:07 - Download do extrato da conta: LOG COMMERCIAL PROPERTIES E PARTICI - 6825036
+>>>> 29/08/2020 18:10:07 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:08 - Download do extrato da conta: LOG COMMERCIAL PROPERTIES E PARTICI - 74765078
+>>>> 29/08/2020 18:10:08 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:08 - Download do extrato da conta: LOG COMMERCIAL PROPERTIES E PARTICI - 7440766
+>>>> 29/08/2020 18:10:08 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:08 - Download do extrato da conta: LOG COMMERCIAL PROPERTIES E PARTICIPACOES S.A - 71947620
+>>>> 29/08/2020 18:10:08 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:08 - Download do extrato da conta: LOG COMMERCIAL PROPERTIES E PARTICIPACOES S.A - 68419325
+>>>> 29/08/2020 18:10:08 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:09 - Download do extrato da conta: LOGCP LONDRINA I SPE LTDA - 7462751
+>>>> 29/08/2020 18:10:09 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:09 - Download do extrato da conta: LOG JUIZ DE FORA I SPE LTDA - 7462743
+>>>> 29/08/2020 18:10:09 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:09 - Download do extrato da conta: LOG MARACANAU I SPE LTDA - 7462735
+>>>> 29/08/2020 18:10:09 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:09 - Download do extrato da conta: LOG RIO SPE LTDA. - 7462786
+>>>> 29/08/2020 18:10:09 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:10 - Download do extrato da conta: LOG UBERABA INCORPORACOES SPE LTDA - 40374564
+>>>> 29/08/2020 18:10:10 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:10 - Download do extrato da conta: LOG VIANA I INCORPORACOES SPE LTDA. - 7462760
+>>>> 29/08/2020 18:10:10 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:10 - Download do extrato da conta: MD PE POLIDORO CONSTRUCOES SPE LTDA - 51832178
+>>>> 29/08/2020 18:10:10 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:10 - Download do extrato da conta: MD PE PRAIA DE PIEDADE LTDA - 7462662
+>>>> 29/08/2020 18:10:10 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:10 - Download do extrato da conta: MD PE VILA NATAL CONSTRUCOES SPE LTDA - 7462719
+>>>> 29/08/2020 18:10:10 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:11 - Download do extrato da conta: MD RN MRV NOVA AVENIDA CONSTRUCOES SPE LTDA - 7462778
+>>>> 29/08/2020 18:10:11 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:11 - Download do extrato da conta: MRV CONSTRUCOES LTDA - 7462794
+>>>> 29/08/2020 18:10:11 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:11 - Download do extrato da conta: MRV ENGENHARIA E PARTICIPACOES SA - 19623666
+>>>> 29/08/2020 18:10:11 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:11 - Download do extrato da conta: MRV ENGENHARIA E PARTICIPACOES SA - 33090440
+>>>> 29/08/2020 18:10:11 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:12 - Download do extrato da conta: MRV ENGENHARIA E PARTICIPACOES SA - 54314984
+>>>> 29/08/2020 18:10:12 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:12 - Download do extrato da conta: MRV ENGENHARIA E PARTICIPACOES SA - 66370078
+>>>> 29/08/2020 18:10:12 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:12 - Download do extrato da conta: MRV ENGENHARIA E PARTICIPACOES SA - 66393590
+>>>> 29/08/2020 18:10:12 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:12 - Download do extrato da conta: MRV ENGENHARIA E PARTICIPACOES SA - 33090432
+>>>> 29/08/2020 18:10:12 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:13 - Download do extrato da conta: MRV ENG E PART S/A - 15651061
+>>>> 29/08/2020 18:10:13 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:13 - Download do extrato da conta: MRV ENG E PART S/A - - 6745040
+>>>> 29/08/2020 18:10:13 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:13 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL ARACAJU - 6932860
+>>>> 29/08/2020 18:10:13 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:13 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL BAURU - 7127952
+>>>> 29/08/2020 18:10:13 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:13 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL BRASILIA - 7430183
+>>>> 29/08/2020 18:10:13 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:14 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL CAMPINAS - 6933165
+>>>> 29/08/2020 18:10:14 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:14 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL CONTAGEM - 7430477
+>>>> 29/08/2020 18:10:14 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:14 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL CURITIBA - 7430175
+>>>> 29/08/2020 18:10:14 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:14 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL FORTALEZA - 7430485
+>>>> 29/08/2020 18:10:14 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:15 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL GOIANIA - 7430450
+>>>> 29/08/2020 18:10:15 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:15 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL JOAO PESSOA - 7430531
+>>>> 29/08/2020 18:10:15 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:15 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL JOINVILLE - 7430191
+>>>> 29/08/2020 18:10:15 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:15 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL LONDRINA - 7430566
+>>>> 29/08/2020 18:10:15 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:16 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL MACEIO - 7430540
+>>>> 29/08/2020 18:10:16 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:16 - Download do extrato da conta: MRV ENG E PART S.A FILIAL MARILIA - 8139954
+>>>> 29/08/2020 18:10:16 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:16 - Download do extrato da conta: MRV ENG E PART S.A FILIAL PALMAS - 8261890
+>>>> 29/08/2020 18:10:16 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:16 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL PORTO ALEGRE - 7430515
+>>>> 29/08/2020 18:10:16 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:17 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL RECIFE - 7430523
+>>>> 29/08/2020 18:10:17 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:17 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL R GRANDE DO NORTE - 7430558
+>>>> 29/08/2020 18:10:17 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:17 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL RIBEIRAO PRETO - 6933092
+>>>> 29/08/2020 18:10:17 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:17 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL RJ - 7430469
+>>>> 29/08/2020 18:10:17 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:18 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL SALVADOR - 7430507
+>>>> 29/08/2020 18:10:18 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:18 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL SAO JOSE DO RIO PRETO - 6932819
+>>>> 29/08/2020 18:10:18 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:18 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL SAO LUIZ - 7430574
+>>>> 29/08/2020 18:10:18 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:18 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL SAO PAULO - 6933122
+>>>> 29/08/2020 18:10:18 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:19 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL SERRA/ES - 6932894
+>>>> 29/08/2020 18:10:19 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:19 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL S.J. DOS CAMPOS - 6984401
+>>>> 29/08/2020 18:10:19 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:19 - Download do extrato da conta: MRV ENG E PART S.A FILIAL SOROCABA - 7959001
+>>>> 29/08/2020 18:10:19 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:19 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL TERESINA - 7430590
+>>>> 29/08/2020 18:10:19 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:20 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL UBERABA - 7430582
+>>>> 29/08/2020 18:10:20 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:20 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL UBERLANDIA - 7430493
+>>>> 29/08/2020 18:10:20 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:20 - Download do extrato da conta: MRV ENG E PART S/A - FILIAL VITORIA DA CONQUISTA - 13932063
+>>>> 29/08/2020 18:10:20 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:21 - Download do extrato da conta: MRV ENG E PART S.A MRV FILIAL MANAUS - 8706247
+>>>> 29/08/2020 18:10:21 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:21 - Download do extrato da conta: MRV INVESTIMENTOS LTDA - 9687351
+>>>> 29/08/2020 18:10:21 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:21 - Download do extrato da conta: MRV MD PE JARDIM DOS COQUEIROS INCORPORACOES SPE LTDA - 7462697
+>>>> 29/08/2020 18:10:21 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:21 - Download do extrato da conta: MRV MD VILA ANTUNES INCORPORACOES SPE LTDA - 7462727
+>>>> 29/08/2020 18:10:21 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:22 - Download do extrato da conta: PREMIER INCORPORACOES SPE LTDA - 7462654
+>>>> 29/08/2020 18:10:22 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:22 - Download do extrato da conta: RESERVA JARDIM INCORPORACOES SPE LTDA - 7462638
+>>>> 29/08/2020 18:10:22 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:22 - Download do extrato da conta: RESERVA MACAUBA LOTEAMENTO LTDA - 13872028
+>>>> 29/08/2020 18:10:22 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:22 - Download do extrato da conta: RESERVA REGATAS LOTEAMENTO LTDA - 66574340
+>>>> 29/08/2020 18:10:22 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:22 - Download do extrato da conta: SANTA IRIA LOTEAMENTO LTDA - 67174949
+>>>> 29/08/2020 18:10:22 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:23 - Download do extrato da conta: URBA 1 EMPREEND. - BEM VIVER - 9376321
+>>>> 29/08/2020 18:10:23 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:23 - Download do extrato da conta: URBA 1 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA - 8521948
+>>>> 29/08/2020 18:10:23 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:23 - Download do extrato da conta: URBA 2 LOTEAMENTOS SPE LTDA - 19014708
+>>>> 29/08/2020 18:10:23 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:23 - Download do extrato da conta: URBA 2 LOTEAMENTOS SPE LTDA - 13871587
+>>>> 29/08/2020 18:10:23 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:24 - Download do extrato da conta: URBA 3 LOTEAMENTOS LTDA - 19341725
+>>>> 29/08/2020 18:10:24 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:24 - Download do extrato da conta: URBA 3 LOTEAMENTOS LTDA - 13876619
+>>>> 29/08/2020 18:10:24 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:24 - Download do extrato da conta: URBA 4 LOTEAMENTOS LTDA - 61168610
+>>>> 29/08/2020 18:10:24 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:24 - Download do extrato da conta: URBA 4 LOTEAMENTOS LTDA - 70315884
+>>>> 29/08/2020 18:10:24 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:25 - Download do extrato da conta: URBA 5 LOTEAMENTOS LTDA - 61185353
+>>>> 29/08/2020 18:10:25 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:25 - Download do extrato da conta: URBA DESENVOLVIMENTO URBANO S.A. - 7437536
+>>>> 29/08/2020 18:10:25 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:25 - Download do extrato da conta: URBA DESENVOLVIMENTO URBANO S.A. - 7437510
+>>>> 29/08/2020 18:10:25 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:25 - Download do extrato da conta: URBA DESENVOLVIMENTO URBANO S.A. - 7437501
+>>>> 29/08/2020 18:10:25 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:26 - Download do extrato da conta: URBA DESENVOLVIMENTO URBANO S.A. - 7437528
+>>>> 29/08/2020 18:10:26 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:26 - Download do extrato da conta: URBA DESENVOLVIMENTO URBANO S.A. - 6890458
+>>>> 29/08/2020 18:10:26 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:26 - Download do extrato da conta: URBA DESENVOLVIMENTO URBANO S.A. - 9064907
+>>>> 29/08/2020 18:10:26 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:26 - Download do extrato da conta: URBA DESENVOLVIMENTO URBANO S.A. - 7440669
+>>>> 29/08/2020 18:10:26 - Extrato da conta já existe na pasta de processamento.
+
+>>>> 29/08/2020 18:10:26 - Fim do download das contas
+
+>>>> 29/08/2020 18:10:26 - Processamento das contas finalizado

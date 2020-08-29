@@ -1,0 +1,8 @@
+>>>> 27/08/2020 14:59:04 - Início da execução do processamento das contas do Inter
+
+>>>> 27/08/2020 14:59:05 - Configurações de e-mail realizadas com sucesso!
+>>>> 27/08/2020 14:59:05 - 1 e-mail(s) identificados para deletar
+>>>> 27/08/2020 14:59:05 - Deletando e-mail do dia 2020-08-27 03:46:15+00:00 enviado por no-reply@bancointer.com.br com assunto: Autorização de novo login
+>>>> 27/08/2020 14:59:06 - Emails antigos deletados com sucesso
+>>>> 27/08/2020 14:59:06 - Iniciando a navegação no novo sistema do Inter
+>>>> 27/08/2020 14:59:13 - Erro ao Efetuar login

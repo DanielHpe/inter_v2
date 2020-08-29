@@ -1,0 +1,14 @@
+>>>> 27/08/2020 00:45:58 - Início da execução do processamento das contas do Inter
+>>>> 27/08/2020 00:45:58 - Configurações de e-mail realizadas com sucesso!
+>>>> 27/08/2020 00:45:59 - 1 e-mail(s) identificados para deletar
+>>>> 27/08/2020 00:45:59 - Deletando e-mail do dia 2020-08-27 03:44:35+00:00 enviado por no-reply@bancointer.com.br com assunto: Autorização de novo login
+>>>> 27/08/2020 00:45:59 - Emails antigos deletados com sucesso
+>>>> 27/08/2020 00:45:59 - Iniciando a navegação no novo sistema do Inter
+>>>> 27/08/2020 00:46:10 - Fazendo o acesso. Inserindo o usuário
+>>>> 27/08/2020 00:46:11 - Fazendo o acesso. Inserindo a senha
+>>>> 27/08/2020 00:46:13 - Token enviado para o e-mail de acesso. Iniciando a validação do Token
+>>>> 27/08/2020 00:46:13 - Esperando e-mail com o Token chegar
+>>>> 27/08/2020 00:46:27 - Email com o Token chegou. Recuperando informações do e-mail
+>>>> 27/08/2020 00:46:27 - Salvando HTML do e-mail
+>>>> 27/08/2020 00:46:28 - Token extraído com sucesso
+>>>> 27/08/2020 00:46:28 - Login efetuado com sucesso

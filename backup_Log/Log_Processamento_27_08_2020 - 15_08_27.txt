@@ -1,0 +1,13 @@
+>>>> 27/08/2020 15:08:27 - Início da execução do processamento das contas do Inter
+
+>>>> 27/08/2020 15:08:28 - Configurações de e-mail realizadas com sucesso!
+>>>> 27/08/2020 15:08:28 - Nenhum e-mail encontrado para deletar
+>>>> 27/08/2020 15:08:28 - Iniciando a navegação no novo sistema do Inter
+>>>> 27/08/2020 15:08:46 - Fazendo o acesso. Inserindo o usuário
+>>>> 27/08/2020 15:08:49 - Fazendo o acesso. Inserindo a senha
+>>>> 27/08/2020 15:08:51 - Token enviado para o e-mail de acesso. Iniciando a validação do Token
+>>>> 27/08/2020 15:08:51 - Esperando e-mail com o Token chegar
+>>>> 27/08/2020 15:10:04 - Email com o Token chegou. Recuperando informações do e-mail
+>>>> 27/08/2020 15:10:04 - Salvando HTML do e-mail
+>>>> 27/08/2020 15:10:05 - Token extraído com sucesso
+>>>> 27/08/2020 15:10:05 - Login efetuado com sucesso

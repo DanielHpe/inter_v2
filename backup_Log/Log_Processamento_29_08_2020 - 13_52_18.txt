@@ -1,0 +1,24 @@
+>>>> 29/08/2020 13:52:22 - Início do processamento das contas do banco Inter
+
+>>>> 29/08/2020 13:52:22 - Fazendo Login no sistema
+
+>>>> 29/08/2020 13:52:31 - Configurações de e-mail realizadas com sucesso!
+>>>> 29/08/2020 13:52:31 - 1 e-mail(s) identificados para deletar
+>>>> 29/08/2020 13:52:31 - Deletando e-mail do dia 2020-08-29 16:28:53+00:00 enviado por no-reply@bancointer.com.br com assunto: Autorização de novo login
+>>>> 29/08/2020 13:52:32 - Emails antigos deletados com sucesso
+>>>> 29/08/2020 13:52:32 - Fazendo o acesso. Inserindo o usuário
+>>>> 29/08/2020 13:52:33 - Fazendo o acesso. Inserindo a senha
+>>>> 29/08/2020 13:52:35 - Token enviado para o e-mail de acesso. Iniciando a validação do Token
+>>>> 29/08/2020 13:52:35 - Esperando e-mail com o Token chegar
+>>>> 29/08/2020 13:53:00 - Email com o Token chegou. Recuperando informações do e-mail
+>>>> 29/08/2020 13:53:00 - Salvando HTML do e-mail
+>>>> 29/08/2020 13:53:00 - Token extraído com sucesso
+>>>> 29/08/2020 13:53:00 - Inserindo o Token
+>>>> 29/08/2020 13:53:00 - Login efetuado com sucesso
+
+>>>> 29/08/2020 13:53:00 - Iniciando download dos extratos
+
+>>>> 29/08/2020 13:53:10 - Extrato da conta: URBA DESENVOLVIMENTO URBANO S.A. - 7437528 já existe na pasta de processamento. Indo para a próxima conta da fila
+>>>> 29/08/2020 13:53:11 - Erro inesperado ao baixar conta
+
+>>>> 29/08/2020 13:53:11 - Processamento das contas finalizado

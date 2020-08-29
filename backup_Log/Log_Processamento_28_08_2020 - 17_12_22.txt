@@ -1,0 +1,23 @@
+>>>> 28/08/2020 17:12:26 - 
+Início da execução do processamento das contas do Inter
+
+>>>> 28/08/2020 17:12:26 - Fazendo Login no sistema
+>>>> 28/08/2020 17:12:35 - Configurações de e-mail realizadas com sucesso!
+>>>> 28/08/2020 17:12:35 - 1 e-mail(s) identificados para deletar
+>>>> 28/08/2020 17:12:35 - Deletando e-mail do dia 2020-08-28 20:07:35+00:00 enviado por no-reply@bancointer.com.br com assunto: Autorização de novo login
+>>>> 28/08/2020 17:12:36 - Emails antigos deletados com sucesso
+>>>> 28/08/2020 17:12:36 - Fazendo o acesso. Inserindo o usuário
+>>>> 28/08/2020 17:12:37 - Fazendo o acesso. Inserindo a senha
+>>>> 28/08/2020 17:12:38 - Token enviado para o e-mail de acesso. Iniciando a validação do Token
+>>>> 28/08/2020 17:12:38 - Esperando e-mail com o Token chegar
+>>>> 28/08/2020 17:13:50 - Email com o Token chegou. Recuperando informações do e-mail
+>>>> 28/08/2020 17:13:50 - Salvando HTML do e-mail
+>>>> 28/08/2020 17:13:50 - Token extraído com sucesso
+>>>> 28/08/2020 17:13:50 - Login efetuado com sucesso
+
+>>>> 28/08/2020 17:13:50 - 
+
+>>>> 28/08/2020 17:13:50 - Iniciando download dos extratos
+
+>>>> 28/08/2020 17:13:59 - Download do extrato da conta: ASSOCIACAO INSTITUTO MRV - Conta: 6922899
+>>>> 28/08/2020 17:14:15 - Erro fazer download das contas do Inter

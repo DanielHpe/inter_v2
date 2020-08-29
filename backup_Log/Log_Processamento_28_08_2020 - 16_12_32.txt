@@ -1,0 +1,76 @@
+>>>> 28/08/2020 16:12:37 - 
+Início da execução do processamento das contas do Inter
+
+>>>> 28/08/2020 16:12:37 - Fazendo Login no sistema
+>>>> 28/08/2020 16:12:44 - Configurações de e-mail realizadas com sucesso!
+>>>> 28/08/2020 16:12:44 - 1 e-mail(s) identificados para deletar
+>>>> 28/08/2020 16:12:44 - Deletando e-mail do dia 2020-08-28 18:39:20+00:00 enviado por no-reply@bancointer.com.br com assunto: Autorização de novo login
+>>>> 28/08/2020 16:12:44 - Emails antigos deletados com sucesso
+>>>> 28/08/2020 16:12:44 - Fazendo o acesso. Inserindo o usuário
+>>>> 28/08/2020 16:12:46 - Fazendo o acesso. Inserindo a senha
+>>>> 28/08/2020 16:12:47 - Token enviado para o e-mail de acesso. Iniciando a validação do Token
+>>>> 28/08/2020 16:12:47 - Esperando e-mail com o Token chegar
+>>>> 28/08/2020 16:14:40 - Email com o Token chegou. Recuperando informações do e-mail
+>>>> 28/08/2020 16:14:40 - Salvando HTML do e-mail
+>>>> 28/08/2020 16:14:40 - Token extraído com sucesso
+>>>> 28/08/2020 16:14:41 - Login efetuado com sucesso
+>>>> 28/08/2020 16:14:49 - Procesamento da conta: ASSOCIACAO INSTITUTO MRV - Conta: 6922899
+>>>> 28/08/2020 16:14:54 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:54 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:54 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:54 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:54 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:54 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:54 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:54 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Esperando o download do arquivo do extrato
+>>>> 28/08/2020 16:14:55 - Erro ao renomear/mover arquivo
+>>>> 28/08/2020 16:14:58 - Procesamento da conta: BETIM I INCORPORACAO SPE LTDA - Conta: 7621086
+>>>> 28/08/2020 16:15:03 - Erro ao renomear/mover arquivo
+>>>> 28/08/2020 16:15:06 - Procesamento da conta: BTS VIII EMPREENDIMENTOS IMOBILIARIOS LTDA - Conta: 15597440
+>>>> 28/08/2020 16:15:11 - Erro ao renomear/mover arquivo
+>>>> 28/08/2020 16:15:14 - Procesamento da conta: CABRAL INVESTIMENTOS SPE LTDA. - Conta: 7009364
+>>>> 28/08/2020 16:15:19 - Erro ao renomear/mover arquivo
+>>>> 28/08/2020 16:15:22 - Procesamento da conta: CASASMAIS MACAUBA INCORPORACOES LTDA - Conta: 18039561
+>>>> 28/08/2020 16:15:27 - Erro ao renomear/mover arquivo
+>>>> 28/08/2020 16:15:29 - Erro fazer download das contas do Inter
