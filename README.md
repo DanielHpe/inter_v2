@@ -1,9 +1,7 @@
-- Processamento das Contas do Inter
+## Processamento das Contas do Inter
 
---> python inter.py 0
-
---> 0 representa o index 
-
---> validar qual chromedrive a ser executado (83, 84 ou 85)
-
---> https://chromedriver.chromium.org/downloads
+    - script: python inter.py index
+    - index representa um número inteiro de 0 a n
+    - se index for maior que o número de contas encontradas. Robô finaliza
+    -- validar qual chromedrive a ser executado (83, 84 ou 85)
+    - Download do chromedrive aqui: https://chromedriver.chromium.org/downloads
