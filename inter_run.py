@@ -36,7 +36,6 @@ log_filename = 'Log_Processamento_' + created_file_at + '.txt'
 
 def F_InitEmailConfig():    
 
-    #PRD Configs
     email               = config.email_user
     password            = config.email_pass
     server              = config.email_server
@@ -51,7 +50,7 @@ def F_InitEmailConfig():
         return mailbox
         
     except:
-        # logging.error('Erro:', exc_info=True)
+        logging.error('Erro:', exc_info=True)
         return None
 
 def F_GetFileFolderName():
@@ -139,7 +138,7 @@ def F_MoveAndRenameFile(old_filename, new_filename, old_folder, new_folder):
         return True
     except:
         F_WriteLog('Erro ao renomear/mover arquivo')
-        # logging.error('Erro:', exc_info=True)
+        logging.error('Erro:', exc_info=True)
         return None
     
 def F_DeleteOldEmails(mailbox, sent_from):
@@ -216,7 +215,7 @@ def F_GetEmailToken(mailbox, sent_from):
 
     except:
         F_WriteLog('Erro ao processar informações do e-mail')
-        # logging.error('Erro:', exc_info=True)
+        logging.error('Erro:', exc_info=True)
         return None  
 
 def F_GetListAccounts(list_down, is_logged = True):
@@ -267,12 +266,12 @@ def F_Login(mailbox, sent_from, access):
         F_WriteLog('Inserindo o Token')
 
         browser.find_element_by_xpath('//*[@id="loginGeral"]/div/div/div[2]/div/form/input').send_keys(token)
-        browser.implicitly_wait(20) # Segundos
+        browser.implicitly_wait(40) # Segundos
 
         return True
 
     except:
-        # logging.error('Erro:', exc_info=True)
+        logging.error('Erro:', exc_info=True)
         return False
 
 def F_RunAccounts(index, list_contas):
@@ -344,7 +343,7 @@ def F_RunAccounts(index, list_contas):
         F_RunAccounts(index, F_GetListAccounts(list_down))
     
     except:
-        # logging.error('Erro:', exc_info=True)
+        logging.error('Erro:', exc_info=True)
         F_WriteLog('Erro inesperado ao baixar conta\n')
         global num_erros
         num_erros += 1
@@ -358,7 +357,8 @@ def F_WriteLog(mensagem):
     
 if __name__ == "__main__":
 
-    browser = webdriver.Chrome(r"C:\Users\agenterpa2\Desktop\Chromedrive\Chromedriver84.exe",options=chrome_options)
+    chromedriver = F_GetFileFolderName() + '\\config\\chromedriver\\Chromedriver83.exe'
+    browser = webdriver.Chrome(chromedriver, options=chrome_options)
 
     F_WriteLog('Início do processamento das contas do banco Inter\n')
     F_WriteLog('Fazendo Login no sistema\n')
